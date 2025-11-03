@@ -1,0 +1,7 @@
+{
+  "name": "Transdelevati - Controle de Frota",
+  "description": "Uma aplicação de página única (SPA) para o controle de frota da transportadora Transdelevati, permitindo que motoristas preencham checklists de veículos e administradores visualizem os dados.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
